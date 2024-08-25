@@ -11,6 +11,6 @@ This project implements a number spiral of a given size, and then returns the ad
 To use this project, clone the repository and ensure you have Python installed on your system.
 
 ```bash
-git clone https://github.com/yourusername/Spiral-Project.git
-cd Spiral-Project
+git clone https://github.com/matiasrmzdeal/number-spiral.git
+cd number-spiral
 ```
